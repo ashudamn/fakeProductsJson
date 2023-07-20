@@ -1,0 +1,51 @@
+[
+  {
+    "products": [
+      {
+        "id": "p_abcd1234",
+        "category": "stationary",
+        "guid": "9f242418-1472-4045-80be-c94a6e6ef74f",
+        "name": "Classmate Blue Pen",
+        "description": "a pen that anyone desires",
+        "quantity": 100,
+        "price": 10,
+        "containMultipleItems": false,
+        "quantityOfMultipleItems": null,
+        "pricePerItem": null,
+        "rating": 4.0,
+        "manufacturerId": "m_abcd1234",
+        "imageSrc": "https://cdn.stocksnap.io/img-thumbs/960w/watch-phone_TQAYEGZPQZ.jpg"
+      },
+      {
+        "id": "p_abcd12345",
+        "category": "stationary",
+        "guid": "9f242418-1472-4045-80be-c94a6e6ef74f",
+        "name": "Classmate Blue Pen",
+        "description": "a pen that anyone desires",
+        "quantity": 100,
+        "price": 10,
+        "containMultipleItems": false,
+        "quantityOfMultipleItems": null,
+        "pricePerItem": null,
+        "rating": 4.0,
+        "manufacturerId": "m_abcd1234",
+        "imageSrc": "https://cdn.stocksnap.io/img-thumbs/960w/watch-phone_TQAYEGZPQZ.jpg"
+      },
+      {
+        "id": "p_abcd123456",
+        "category": "stationary",
+        "guid": "9f242418-1472-4045-80be-c94a6e6ef74f",
+        "name": "Classmate Blue Pen",
+        "description": "a pen that anyone desires",
+        "quantity": 100,
+        "price": 10,
+        "containMultipleItems": false,
+        "quantityOfMultipleItems": null,
+        "pricePerItem": null,
+        "rating": 4.0,
+        "manufacturerId": "m_abcd1234",
+        "imageSrc": "https://cdn.stocksnap.io/img-thumbs/960w/watch-phone_TQAYEGZPQZ.jpg"
+      }
+    ]
+  }
+]
